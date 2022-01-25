@@ -3,6 +3,6 @@
 ## Installation
 
 ```console
-helm repo add itzg https://itzg.github.io/minecraft-server-charts/
-helm search repo itzg
+helm repo add smcdonald248 https://smcdonald248.github.io/minecraft-server-charts/
+helm search repo smcdonald248
 ```
